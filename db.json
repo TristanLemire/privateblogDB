@@ -1,11 +1,29 @@
 {
   "articles": [
-    { "id": 1, "title": "Post 1", "article": "test", "date": "11/11/2011", "category": "test" },
-    { "id": 2, "title": "Post 2", "article": "test", "date": "11/11/2011", "category": "test" },
-    { "id": 3, "title": "Post 3", "article": "test", "date": "11/11/2011", "category": "test" }
+    {
+      "id": 1,
+      "title": "Post 1",
+      "text": "test",
+      "date": "11/11/2011",
+      "category": "test"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "text": "test",
+      "date": "11/11/2011",
+      "category": "test"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "text": "test",
+      "date": "11/11/2011",
+      "category": "test"
+    }
   ],
   "category": [
-    { "id": 1, "name": "test" },
-    { "id": 2, "name": "Veille" }
+    { "id": 1, "name": "test", "color": "red" },
+    { "id": 2, "name": "Veille", "color": "blue" }
   ]
 }
